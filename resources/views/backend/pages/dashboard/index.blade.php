@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO DASHBOARD</h1>
+    <h1>HELLO DASHBOARD {{$username}} <br> {{$email}}</h1>
 </body>
 </html>
